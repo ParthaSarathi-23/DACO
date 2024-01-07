@@ -33,12 +33,12 @@ The project code includes several functions to support its functionalities, such
 ## How to Use
 
 1. *Clone the Repository:*
-   bash
+   ```bash
    git clone https://github.com/your-username/Dictionary-and-Autocomplete.git
    
 
 2. *Run the Application:*
-   bash
+   ```bash
    cd Dictionary-and-Autocomplete
    python Dictionary and Autocomplete.cpp
    
